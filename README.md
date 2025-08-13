@@ -23,7 +23,7 @@ This project is dual-licensed:
 > 📧 raulfernandezpachas@gmail.com
 
 ## 🚀 How to Use This Software
-**First** Place all required files from the `src/` and `data/` folders into a single working directory to ensure the software runs properly.  
+**First** Place all required files from the `src/` and `data/` folders into a single working directory to ensure the software runs properly. // 
 **Second** Open Menu.py using your preferred code editor (visual studio code) or IDE (Pycharm). Alternatively, run it directly from the terminal: python Menu.py
 **Third** It is recommended to use one layer for the study of storage approaches.
 **Four** Digit the constraints for warehouse dimensions and create a blank layout design, and create each area afterwards.
