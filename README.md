@@ -25,7 +25,7 @@ This project is dual-licensed:
 ## 🚀 How to Use This Software
 Please, use the software in the following sequence:
 
-#**1.** Place all required files from the `src/` and `data/` folders into a single working directory to ensure the software runs properly. 
+#**1.** Place all required files from the `src/` , `data/` and `images/` folders into a single working directory to ensure the software runs properly. 
 
 #**2.** Open Menu.py using your preferred code editor (visual studio code) or IDE (Pycharm). Alternatively, run it directly from the terminal: python Menu.py
 
