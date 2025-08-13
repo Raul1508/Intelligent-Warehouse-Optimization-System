@@ -23,11 +23,11 @@ This project is dual-licensed:
 > 📧 raulfernandezpachas@gmail.com
 
 ## 🚀 How to Use This Software
-> First, place all required files from the `src/` and `data/` folders into a single working directory to ensure the software runs properly.  
-> Second, open Menu.py using your preferred code editor (visual studio code) or IDE (Pycharm). Alternatively, run it directly from the terminal: python Menu.py
-> Third, it is recommended to use one layer for the study of storage approaches.
-> Four, digit the constraints for warehouse dimensions and create a blank layout design, and create each area afterwards.
-> Five, click on product allocation to get access for placing automamtically new products from predefined brands and features (given by the user).
-> Six, you can explore the set up features! (for both intelligent floor and storage set up).
-> Seven, after exit from the software you can open simulation_result_optimum_3.py to find the optimum storage approach and analytics, this will display a Genetic Algorithm evolution at some point of the complex analysis.
-> Note: the analysis done in "seven" does not have an impact over the placement of products showcased in step "five" (triggered by Menu.py). To see the analysis result and formal comparison see the outcome from Result_Analysis_4_storage_approaches.csv file. 
+**First** Place all required files from the `src/` and `data/` folders into a single working directory to ensure the software runs properly.  
+**Second** Open Menu.py using your preferred code editor (visual studio code) or IDE (Pycharm). Alternatively, run it directly from the terminal: python Menu.py
+**Third** It is recommended to use one layer for the study of storage approaches.
+**Four** Digit the constraints for warehouse dimensions and create a blank layout design, and create each area afterwards.
+**Five** Click on product allocation to get access for placing automamtically new products from predefined brands and features (given by the user).
+**Six** You can explore the set up features! (for both intelligent floor and storage set up).
+**Seven** After exit from the software you can open simulation_result_optimum_3.py to find the optimum storage approach and analytics, this will display a Genetic Algorithm evolution at some point of the complex analysis.
+**Note** The analysis done in "seven" does not have an impact over the placement of products showcased in step "five" (triggered by Menu.py). To see the analysis result and formal comparison see the outcome from Result_Analysis_4_storage_approaches.csv file. 
