@@ -1,0 +1,19 @@
+Academic Research Use License
+
+Copyright (c) 2025 Raúl Eduardo Fernández Pachas  
+Affiliation: Anhui University of Technology
+
+This software prototype is made available for academic and non-commercial research purposes only.
+
+You are free to:
+- View, download, and use this code for academic papers, research, or educational demonstrations.
+
+You may not:
+- Use this code or any part of it for commercial purposes.
+- Distribute modified versions without proper attribution.
+- Publish research or derivative work based on this code before the original author's research is formally published.
+
+For commercial licensing or collaboration, contact: raulfernandezpachas@gmail.com
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND.
+

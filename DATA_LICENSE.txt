@@ -1,0 +1,20 @@
+## 📊 Synthetic Dataset
+
+The dataset included in this repository is entirely **synthetic** and has been **artificially generated** for research and educational purposes.
+
+- No real-world data was used in its creation.
+- It does not contain any personal, confidential, or proprietary information.
+- It is provided to demonstrate the functionality and evaluation of the Intelligent Warehouse Management System prototype.
+
+### 📄 License
+
+This dataset is distributed under the **Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)** license.
+
+You are free to:
+- Use, copy, and adapt the dataset for academic or non-commercial purposes.
+
+You may not:
+- Use this dataset for commercial purposes.
+- Redistribute modified versions without attribution.
+
+For commercial use, please contact: raulfernandezpachas@gmail.com
