@@ -29,7 +29,7 @@ Please, use the software in the following sequence:
 
 #**2.** Open Menu.py using your preferred code editor (visual studio code) or IDE (Pycharm). Alternatively, run it directly from the terminal: python Menu.py
 
-#**3.** It is recommended to use one layer for the study of storage approaches.
+#**3.** It is recommended to select **Normal Multilayer** and create 1 layer to perform the additional step **7** for comparison and study of storage approaches.
 
 #**3.** Digit the constraints for warehouse dimensions and create a blank layout design, and create each area afterwards.
 
