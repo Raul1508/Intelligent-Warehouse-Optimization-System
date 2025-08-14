@@ -39,4 +39,4 @@ Please, use the software in the following sequence:
 
 #**7.** After exit from the software you can open simulation_result_optimum_3.py to find the optimum storage approach and analytics, this will display a Genetic Algorithm evolution at some point of the complex analysis.
 
-#**Note:** The analysis done in **7** does not have an impact over the placement of products showcased in step **5**. To see the analysis result and formal comparison see the outcome from Result_Analysis_4_storage_approaches.csv file. 
+#**Note:** The analysis done in **7** does not have an impact over the placement of products showcased in step **5**. To see the analysis result and formal comparison see the outcome from Result_Analysis_4_storage_approaches.csv file. Also, review the image carpet and see the **GUI_1** and **GUI_2** images to get a grasp on which values fit better for automatic layout and product generation. 
